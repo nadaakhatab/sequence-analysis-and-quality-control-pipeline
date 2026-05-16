@@ -1,5 +1,3 @@
-# Bioinformatics Programming — Practical Assignment
-
 A complete bioinformatics preprocessing workflow implemented in Python using Google Colab.
 
 ---
